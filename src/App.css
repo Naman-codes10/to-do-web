@@ -1,0 +1,23 @@
+h1{
+    font-weight: 900;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 60px;
+    margin: 10px;
+    margin-bottom: 30px;
+}
+
+input{
+    width: 100%;
+}
+
+.todo-items{
+    text-align: left;
+}
+
+.Mrow{
+    margin: 10px 5px;
+}
+
+.Mbutton{
+    min-width: 80px;
+}
